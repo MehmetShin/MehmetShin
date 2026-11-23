@@ -2,7 +2,7 @@
 
 <h1>Mehmet Şahin</h1>
 
-<p><strong>Full-Stack Web Geliştirici • Discord Bot & Yapay Zeka Otomasyon Mühendisi</strong></p>
+<p><strong>Full-Stack Web Geliştirici • Discord Bot & Yapay Zeka Otomasyon</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/NODE.JS-22+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
