@@ -106,5 +106,5 @@ Gizlilik odaklı **masaüstü yazılımlar**, yüksek performanslı **web uygula
 ---
 
 <div align="center">
-  <sub>© 2026 Mehmet Şahin • <a href="https://adaletgaming.com">adaletgaming.com</a></sub>
+  <sub>© 2026 Mehmet Şahin</a></sub>
 </div>
