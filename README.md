@@ -2,11 +2,12 @@
 
 <h1>Mehmet Şahin</h1>
 
-<p><strong>Full-Stack Web Geliştirici • Discord Bot & Yapay Zeka Otomasyon</strong></p>
+<p><strong>Masaüstü Uygulama, Full-Stack Web & Yapay Zeka Otomasyon Geliştiricisi</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/NODE.JS-22+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ELECTRON-CHROMIUM-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
   <img src="https://img.shields.io/badge/DISCORD.JS-V14-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
   <img src="https://img.shields.io/badge/CLOUDFLARE-PAGES-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/SQLITE-WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -26,7 +27,7 @@
 
 <h2 id="hakkimda">Hakkımda</h2>
 
-Yüksek trafikli topluluklar için ölçeklenebilir **web uygulamaları**, **yapay zeka destekli sesli otomasyonlar**, **sunucu güvenlik (guard) sistemleri** ve **özel Discord bot altyapıları** geliştiriyorum. 2020'den bu yana aktif olan **Türkiyem Adalet Gaming™** ekosisteminin web, API ve otomasyon mimarisini yönetiyorum.
+Gizlilik odaklı **masaüstü yazılımlar**, yüksek performanslı **web uygulamaları**, **yapay zeka destekli sesli otomasyonlar** ve kapsamlı **Discord bot ekosistemleri** geliştiriyorum. **Poly Browser**, **Polyvate** ve **Türkiyem Adalet Gaming™** projelerinin mimarisini ve geliştirme süreçlerini yönetiyorum.
 
 ---
 
@@ -35,10 +36,28 @@ Yüksek trafikli topluluklar için ölçeklenebilir **web uygulamaları**, **yap
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>Poly Browser</h3>
+      <ul>
+        <li>Akıcı, RAM dostu, gizlilik odaklı ve <strong>sıfır telemetri</strong> ilkeli modern masaüstü web tarayıcısı.</li>
+        <li><strong>Poly Control</strong> (RAM limiti & otomatik sekme uyutma), dahili <strong>Reklam & İzleyici Kalkanı</strong> ve 5 ülke konumlu <strong>Poly VPN</strong>.</li>
+        <li><strong>Windows DPAPI (AES-256)</strong> + Windows Hello destekli yerel şifre kasası ve <strong>Split View</strong> bölünmüş ekran.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Polyvate Discord Bot</h3>
+      <ul>
+        <li>Modern Discord toplulukları için geliştirilmiş çok amaçlı <strong>otomasyon, moderasyon ve yönetim</strong> botu.</li>
+        <li><strong>Discord Components V2</strong> tabanlı etkileşimli paneller, hızlı ayar yönetimi ve modüler komut mimarisi.</li>
+        <li>Yüksek kararlılık, düşük gecikme ve topluluk ihtiyaçlarına göre ölçeklenebilir altyapı.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Türkiyem Adalet Gaming™ Web & API</h3>
       <ul>
         <li><strong>Cloudflare Pages</strong> üzerinde çalışan yüksek hızlı kurumsal topluluk web sitesi.</li>
-        <li>Sunucusuz (Serverless) API uçlarıyla canlı oyuncu sayısı, durum takibi ve tek tıkla doğrudan indirme dağıtımı.</li>
+        <li>Sunucusuz (Serverless) API uçlarıyla canlı oyuncu sayısı, durum takibi ve doğrudan indirme dağıtımı.</li>
         <li>Modern karanlık arayüz, mobil uyumluluk ve SEO/OpenGraph optimizasyonu.</li>
       </ul>
     </td>
@@ -53,10 +72,10 @@ Yüksek trafikli topluluklar için ölçeklenebilir **web uygulamaları**, **yap
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Klan Alım, Yönetim & Denetim Botu</h3>
+      <h3>Klan Alım, Yönetim & Denetim Sistemi</h3>
       <ul>
-        <li><strong>Discord Components V2</strong> panellerle tam otomatik sesli klan alım, istifa ve birim yönetim sistemi.</li>
-        <li><strong>SQLite</strong> tabanlı kalıcı klan hakkı, sivil alım istatistikleri, ticket ve moderasyon arşivi.</li>
+        <li>Tam otomatik sesli klan alım, istifa, kalıcı klan hakkı ve birim yönetim otomasyonu.</li>
+        <li><strong>SQLite</strong> tabanlı sivil alım istatistikleri, ticket ve moderasyon arşivi.</li>
         <li>Üst yönetim için günlük, haftalık, aylık performans ve SS kanıt denetim panelleri.</li>
       </ul>
     </td>
